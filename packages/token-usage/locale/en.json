@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token usage and cost",
+    "description": "Shows session tokens and estimated costs, provider balances, and AgentRouter quota on the Usage page."
+  }
+}

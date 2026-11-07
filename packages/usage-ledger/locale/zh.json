@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "用量账本",
+    "description": "为「用量」面板提供按模型与提供商的令牌汇总、余额及 AgentRouter 密钥额度。"
+  }
+}

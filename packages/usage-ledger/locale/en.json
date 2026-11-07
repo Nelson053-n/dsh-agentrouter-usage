@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Usage ledger",
+    "description": "Serves token usage by model and provider, balances, and AgentRouter key quota to the Usage panel."
+  }
+}

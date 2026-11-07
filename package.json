@@ -1,0 +1,17 @@
+{
+  "name": "dsh-agentrouter-usage-project",
+  "version": "0.3.1",
+  "private": true,
+  "type": "module",
+  "description": "Shareable AgentRouter dashboard balance and usage panel bundles for DeepSeek Harness",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelson053-n/dsh-agentrouter-usage.git"
+  },
+  "engines": { "node": ">=22" },
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test": "node scripts/verify.mjs",
+    "check": "node scripts/check-public.mjs"
+  }
+}

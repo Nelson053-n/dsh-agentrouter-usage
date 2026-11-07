@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "用量与费用",
+    "description": "在「用量」页面显示会话令牌、估算费用、提供商余额与 AgentRouter 额度。"
+  }
+}
